@@ -1,0 +1,6 @@
+﻿main.obj : error LNK2001: unresolved external symbol __imp_curl_easy_perform
+main.obj : error LNK2001: unresolved external symbol __imp_curl_easy_init
+main.obj : error LNK2001: unresolved external symbol __imp_curl_easy_strerror
+main.obj : error LNK2001: unresolved external symbol __imp_curl_easy_cleanup
+main.obj : error LNK2001: unresolved external symbol __imp_curl_easy_setopt
+D:\ZennyHenny\Hacking\Malware\My Coded M4lware\SkarSilentMiner\Source\SkarSilentMiner\x64\Release\SkarSilentMiner.exe : fatal error LNK1120: 5 unresolved externals
